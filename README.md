@@ -2,7 +2,7 @@
 
 Deployed at: decision-app.surge.sh
 
-![](PreviewImage/decision.png)
+![](PreviewImage/decision1.png)
 ![](PreviewImage/decision2.png)
 ![](PreviewImage/decision3.png)
 
@@ -10,4 +10,5 @@ Deployed at: decision-app.surge.sh
 # Counter App 
 
 ![](PreviewImage/counterapp.png)
+
 ![](PreviewImage/counterapp2.png)
