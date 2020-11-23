@@ -1,6 +1,6 @@
 # Decision App
 
-Deployed at: decision-app.surge.sh
+Deployed at: http://decision-app.surge.sh/
 
 ![](PreviewImage/decision1.png)
 ![](PreviewImage/decision2.png)
